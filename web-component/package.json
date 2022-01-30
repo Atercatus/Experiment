@@ -1,0 +1,23 @@
+{
+  "name": "web-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atercatus/web-component-tuto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atercatus/web-component-tuto/issues"
+  },
+  "homepage": "https://github.com/Atercatus/web-component-tuto#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "jsture-test": "^0.0.9"
+  }
+}
